@@ -1,0 +1,11 @@
+[project]
+name = "transcript-analyzer-agent"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "boto3>=1.42.51",
+    "openpyxl>=3.1.5",
+    "python-dotenv>=1.2.1",
+    "youtube-transcript-api>=1.2.4",
+]
