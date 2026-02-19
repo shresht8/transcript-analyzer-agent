@@ -209,6 +209,8 @@ __marimo__/
 # Project-specific
 data/
 results/
+test_data/
+test_results/
 urls.xlsx
 
 rubric.py
