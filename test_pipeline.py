@@ -1,3 +1,5 @@
+# uv run test_pipeline.py --input urls.xlsx --limit 10
+
 """
 Test the full pipeline with a limited number of URLs.
 

@@ -214,3 +214,5 @@ test_results/
 urls.xlsx
 
 rubric.py
+*.xlsx
+proxies.txt
